@@ -1,6 +1,5 @@
 //Escreva um aplicativo que localize o menor de varios numeros inteiros
 //Suponha que o primeiro valor lido especifica o numero de valores a serem inseridos pelo usuario
-//TODO o programa nao esta fazendo o loop para inserir mais valores CONSERTAR
 import java.util.Scanner;
 
 public class Exercicio5_11 {
